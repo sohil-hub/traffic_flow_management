@@ -1,0 +1,3 @@
+conda create --name udp_2 python=3.9.10
+conda activate udp_2
+conda install opencv==4.5.5 streamlit==1.8.1 pillow==9.0.0 numpy==1.21.5
